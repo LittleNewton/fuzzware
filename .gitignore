@@ -25,3 +25,9 @@ core*
 *.nam
 *.til
 *.idb
+
+# Python related
+.ipynb_checkpoints
+
+# Visual Studio Code related
+.vscode
